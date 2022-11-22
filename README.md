@@ -39,7 +39,7 @@ I am a Full Stack Software Engineer who loves the implementation of both front-e
 
 As a Software Engineer, I love the ability to bring ideas to life and learn skills that can make a positive impact on the world. 
 
-On my free time I like to catch up on tech news, programm and spend time with my family. 
+On my free time I like to catch up on tech news, program and spend time with my family. 
 
 
 # :seedling: What I am working on: 
