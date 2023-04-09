@@ -16,7 +16,7 @@ On my free time I like to catch up on tech news, program and spend time with my 
 + :books: I'm currently getting my Bachelors in Software Development at Grand Canyon University 
 + :book: Interest in HCI & A.I 
 + :desktop_computer: Working on Mooc.fi Java I course & freeCodeCamp(Web Design Cert & JS Algorithms and DS
-+ :pencil2: Currently I am learning Java Programming and Data Structures
++ :pencil2: Learning Java OOP & DS
 + :ringed_planet: Ask me questions
 + :e-mail: Contact Me: jaaysdevstudio@gmail.com
 + 
