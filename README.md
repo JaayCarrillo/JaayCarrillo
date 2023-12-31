@@ -20,7 +20,7 @@ On my free time I like to catch up on tech news, program and spend time with my 
 + :desktop_computer: Working on Mooc.fi Java I course & freeCodeCamp(Web Design Cert & JS Algorithms and DS
 + :pencil2: Learning Java OOP & DS
 + :ringed_planet: Ask me questions
-+ :e-mail: Contact Me: jaaysdevstudio@gmail.com
++ :e-mail: Contact Me: jcrrilloo@gmail.com
 # :bar_chart: My Stats: 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaayCarrillo&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
