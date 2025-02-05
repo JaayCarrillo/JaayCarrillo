@@ -7,18 +7,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps)](https://skillicons.dev)
 ### About Me: 
-Welcome, On a journey to become a Software Engineer who loves the implementation of both front-end and back-end development.
+Hello World, my name is Jaay. My professional career has been in Tech Sales and over the past few years I've grown a huge interest in computer science, design and behavioral health
 
-As a Software Engineer, I love the ability to bring ideas to life and learn skills that can make a positive impact on the world. 
+I will be using my knowledge of business and technology to contribute to the TechHealth field in hopes of helping those facing mental health challenges
 
-On my free time I like to catch up on tech news, program and spend time with my family. 
+When I am not learning, I am running, reading books and spending time with my family. 
 
 
 # :seedling: What I am working on: 
-+ :books: I'm currently getting my Bachelors in Software Development at Grand Canyon University + my Associates in Computer Science
++ :books: I'm currently getting my Bachelor's in Software Development at Grand Canyon University + my Associate's in Computer Science
 + :book: Interest in HCI | Business Tech | Behavioral Health | AI
 + :desktop_computer: Working on Harvard CS50 & HarvardX Managing Anxiety and Mental Health
-+ :pencil2: 
++ :pencil2: Will be documenting my journey via social media and the 'Medium' web platform
 + :ringed_planet: Ask me questions
 + :e-mail: Contact Me: jcrrilloo@gmail.com
 # :bar_chart: My Stats: 
