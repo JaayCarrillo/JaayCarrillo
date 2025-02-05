@@ -15,10 +15,10 @@ On my free time I like to catch up on tech news, program and spend time with my 
 
 
 # :seedling: What I am working on: 
-+ :books: I'm currently getting my Bachelors in Software Development at Grand Canyon University 
-+ :book: Interest in HCI & A.I 
-+ :desktop_computer: Working on Mooc.fi Java I course & freeCodeCamp(Web Design Cert & JS Algorithms and DS
-+ :pencil2: Learning Java OOP & DS
++ :books: I'm currently getting my Bachelors in Software Development at Grand Canyon University + my Associates in Computer Science
++ :book: Interest in HCI | Business Tech | Behavioral Health | AI
++ :desktop_computer: Working on Harvard CS50 & HarvardX Managing Anxiety and Mental Health
++ :pencil2: 
 + :ringed_planet: Ask me questions
 + :e-mail: Contact Me: jcrrilloo@gmail.com
 # :bar_chart: My Stats: 
